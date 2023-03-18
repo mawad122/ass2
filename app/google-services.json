@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180377044380",
+    "project_id": "task1-fc320",
+    "storage_bucket": "task1-fc320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180377044380:android:0ef09fada1109589787459",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180377044380-nol4kbe8d2l3ihct6cigjtb80892v18a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi2uQme_HppCHGU5OSkBtpyZ9iRqLi1oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180377044380-nol4kbe8d2l3ihct6cigjtb80892v18a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
